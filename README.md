@@ -1,1 +1,1 @@
-# Analysis of data in JSON and CSV formats using Python libraries and SQL
+# Analysis of data in JSON and CSV formats using Python libraries and SQL with over 100K rows
